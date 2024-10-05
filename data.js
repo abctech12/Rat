@@ -1,4 +1,4 @@
 module.exports = {
-  token: "ENTER_YOUR_BOT_TOKEN",
-  id:"ENTER_YOUR_ID"
+  token: "7785991014:AAEd9FKFsnBmkeFd1HoQiR-Gscc6oYxhwrE",
+  id:"6652151149"
 };
